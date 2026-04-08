@@ -8,9 +8,7 @@ Diese Datenschutzerklärung informiert Sie über die Art, den Umfang und Zweck d
 
 ## 2. Verantwortlicher
 
-[Name/Firma]
-[Adresse]
-[E-Mail]
+Discord jarlet753
 
 ## 3. Erhebung und Speicherung personenbezogener Daten
 
@@ -44,7 +42,7 @@ Wir verwenden geeignete technische und organisatorische Maßnahmen zum Schutz Ih
 
 # Privacy Policy (English)
 
-**Last updated:** [Insert date]
+**Last updated:** 4.8.2026
 
 ## 1. General Information
 
@@ -52,9 +50,7 @@ This Privacy Policy explains how we collect and process personal data.
 
 ## 2. Controller
 
-[Name/Company]
-[Address]
-[Email]
+Discord jarlet753
 
 ## 3. Data Collection
 
