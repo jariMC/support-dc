@@ -1,6 +1,6 @@
 # Datenschutzerklärung (Privacy Policy)
 
-**Stand:** [Datum einfügen]
+**Stand:** 8.4.2026
 
 ## 1. Allgemeine Hinweise
 
