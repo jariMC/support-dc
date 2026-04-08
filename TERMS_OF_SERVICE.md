@@ -1,6 +1,6 @@
 # Nutzungsbedingungen (Terms of Service)
 
-**Stand:** [Datum einfügen]
+**Stand:** 8.4.2026
 
 ## 1. Geltungsbereich
 
@@ -30,7 +30,7 @@ Es gilt das Recht der Bundesrepublik Deutschland.
 
 # Terms of Service (English)
 
-**Last updated:** [Insert date]
+**Last updated:** 4.8.2026
 
 ## 1. Scope
 
